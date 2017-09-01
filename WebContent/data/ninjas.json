@@ -1,0 +1,25 @@
+[{
+	"name": "yoshi",
+	"belt": "green",
+	"rate": 50,
+	"available": true,
+	"image": "content/images/1.jpg"
+}, {
+	"name": "crystal",
+	"belt": "yellow",
+	"rate": 30,
+	"available": true,
+	"image": "content/images/2.jpg"
+}, {
+	"name": "ryn",
+	"belt": "orange",
+	"rate": 23,
+	"available": true,
+	"image": "content/images/3.jpg"
+}, {
+	"name": "shaun",
+	"belt": "black",
+	"rate": 70,
+	"available": true,
+	"image": "content/images/4.jpg"
+}]
